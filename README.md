@@ -6,7 +6,7 @@
 
 👉 Portfolio site - <a href="https://thanni.co">Front-End Developer</a></br>
 👉 Designs - <a href="https://dribbble.com/thanni">UI/UX Designer</a></br>
-👉 Writings - <a href="https://blog.thanni.co/">Technical Writer</a></br>
+👉 Writings - <a href="https://blog.thanni.co/">UX Writer</a></br>
 
 <br>
 - 🚀 Fastest way to reach me: <a href="https://t.me/thanni">Telegram</a></br>
