@@ -1,4 +1,4 @@
-<h2 align="left">Web3 UX Engineer</h2>
+<h2 align="left">Web3 Frontend Developer</h2>
 
 > Tools, languages, and other things I work with.
 
